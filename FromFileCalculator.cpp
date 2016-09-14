@@ -1,8 +1,5 @@
 //Taylor Jenkins
 //03-16-16
-//CIT 213-875
-//Exercise 24 pg. 298
-
 
 /*This program that opens the file "Random.txt", 
 reads all the numbers from the file, and calculates the following: 
