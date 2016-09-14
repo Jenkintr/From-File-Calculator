@@ -1,0 +1,2 @@
+# From-File-Calculator
+This program that opens the file "Random.txt",  reads all the numbers from the file, and calculates the following:  A)  The number of numbers in the file  B)  The sum of all the numbers in the file C)  The average of all the numbers in the file  The program displays the number of numbers found in the file, the sum of the  numbers, and the average of the numbers. The program then outputs the information to  a txt file named "RandomOutput.txt".
